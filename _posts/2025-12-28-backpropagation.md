@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Backpropagation
+date: 2025-12-28 13:50 +0530
+math: true
+description : Deep dive into Backpropagation 
 ---
 
 ## Further Reading
