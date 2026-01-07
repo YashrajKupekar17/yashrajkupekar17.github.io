@@ -17,3 +17,4 @@ And then we talked about Batch normalization
 
 
 
+backpropagtion : https://www.iro.umontreal.ca/~vincentp/ift3395/lectures/backprop_old.pdf
