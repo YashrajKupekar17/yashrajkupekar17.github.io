@@ -3,6 +3,7 @@ layout: post
 title: Unsupervised Pretraining -> How We Learned to Train Deep Networks
 date: 2026-01-07 19:07 +0530
 math: true
+description: What is Unsupervised pretraining and how it opened doors for different researches in Deep Learning ?
 ---
 
 Training a neural network is, at its core, a game of gradients.
